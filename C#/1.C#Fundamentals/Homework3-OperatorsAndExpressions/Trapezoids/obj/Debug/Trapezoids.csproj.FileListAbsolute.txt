@@ -1,0 +1,6 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\bin\Debug\Trapezoids.exe.config
+H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\bin\Debug\Trapezoids.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\bin\Debug\Trapezoids.pdb
+H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\obj\Debug\Trapezoids.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\obj\Debug\Trapezoids.pdb

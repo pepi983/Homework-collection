@@ -1,0 +1,6 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe.config
+H:\Telerik\IntroProgrammingHomework\Homework3\PointCircleRectangle\bin\Debug\PointCircleRectangle.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\PointCircleRectangle\bin\Debug\PointCircleRectangle.pdb
+H:\Telerik\IntroProgrammingHomework\Homework3\PointCircleRectangle\obj\Debug\PointCircleRectangle.csprojResolveAssemblyReference.cache
+H:\Telerik\IntroProgrammingHomework\Homework3\PointCircleRectangle\obj\Debug\PointCircleRectangle.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\PointCircleRectangle\obj\Debug\PointCircleRectangle.pdb

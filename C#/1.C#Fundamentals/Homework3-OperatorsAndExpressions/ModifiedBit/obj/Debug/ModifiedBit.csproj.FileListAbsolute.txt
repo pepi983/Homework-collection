@@ -1,0 +1,6 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\bin\Debug\ModifiedBit.exe.config
+H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\bin\Debug\ModifiedBit.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\bin\Debug\ModifiedBit.pdb
+H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\obj\Debug\ModifiedBit.csprojResolveAssemblyReference.cache
+H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\obj\Debug\ModifiedBit.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\obj\Debug\ModifiedBit.pdb

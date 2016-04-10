@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Homework3
+namespace OddOrEven
 {
     class OddOrEven
     {

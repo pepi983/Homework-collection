@@ -1,0 +1,5 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\bin\Debug\3rdBit.exe.config
+H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\bin\Debug\3rdBit.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\bin\Debug\3rdBit.pdb
+H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\obj\Debug\3rdBit.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\obj\Debug\3rdBit.pdb

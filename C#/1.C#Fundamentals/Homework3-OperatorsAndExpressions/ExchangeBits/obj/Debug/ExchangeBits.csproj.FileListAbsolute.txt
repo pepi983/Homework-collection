@@ -1,0 +1,6 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\ExchangeBits\bin\Debug\ExchangeBits.exe.config
+H:\Telerik\IntroProgrammingHomework\Homework3\ExchangeBits\bin\Debug\ExchangeBits.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\ExchangeBits\bin\Debug\ExchangeBits.pdb
+H:\Telerik\IntroProgrammingHomework\Homework3\ExchangeBits\obj\Debug\ExchangeBits.csprojResolveAssemblyReference.cache
+H:\Telerik\IntroProgrammingHomework\Homework3\ExchangeBits\obj\Debug\ExchangeBits.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\ExchangeBits\obj\Debug\ExchangeBits.pdb

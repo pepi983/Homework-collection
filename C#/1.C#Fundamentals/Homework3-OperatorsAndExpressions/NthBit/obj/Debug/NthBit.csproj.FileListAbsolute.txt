@@ -1,0 +1,5 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\NthBit\bin\Debug\NthBit.exe.config
+H:\Telerik\IntroProgrammingHomework\Homework3\NthBit\bin\Debug\NthBit.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\NthBit\bin\Debug\NthBit.pdb
+H:\Telerik\IntroProgrammingHomework\Homework3\NthBit\obj\Debug\NthBit.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\NthBit\obj\Debug\NthBit.pdb
