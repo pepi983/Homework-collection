@@ -1,0 +1,5 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\MoonGravity\bin\Debug\MoonGravity.exe.config
+H:\Telerik\IntroProgrammingHomework\Homework3\MoonGravity\bin\Debug\MoonGravity.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\MoonGravity\bin\Debug\MoonGravity.pdb
+H:\Telerik\IntroProgrammingHomework\Homework3\MoonGravity\obj\Debug\MoonGravity.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\MoonGravity\obj\Debug\MoonGravity.pdb

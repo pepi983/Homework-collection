@@ -1,0 +1,6 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+H:\Telerik\IntroProgrammingHomework\Homework3\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+H:\Telerik\IntroProgrammingHomework\Homework3\DivideBy7And5\obj\Debug\DivideBy7And5.csprojResolveAssemblyReference.cache
+H:\Telerik\IntroProgrammingHomework\Homework3\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+H:\Telerik\IntroProgrammingHomework\Homework3\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

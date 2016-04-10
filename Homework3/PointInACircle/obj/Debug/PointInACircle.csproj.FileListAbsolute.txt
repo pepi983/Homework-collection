@@ -1,0 +1,1 @@
+H:\Telerik\IntroProgrammingHomework\Homework3\PointInACircle\bin\Debug\PointInACircle.exe.config
