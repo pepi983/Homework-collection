@@ -13,6 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberComparer", "NumberCom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadricEquation", "QuadricEquation\QuadricEquation.csproj", "{CFAEC5A2-DD98-45A8-A7AD-AC63F7CA38B6}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfFiveNumbers", "SumOfFiveNumbers\SumOfFiveNumbers.csproj", "{CB41C09F-3F68-4A6B-A7DD-C8BB11E3F05B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFrom1ToN", "NumbersFrom1ToN\NumbersFrom1ToN.csproj", "{3C89381F-A200-4182-B7D0-8F5085345B50}"
@@ -23,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabionacciSequence", "Fabio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interval", "Interval\Interval.csproj", "{C71A3E3C-C8FA-4C7F-AC2F-1AE4ECD7DB14}"
 EndProject
+=======
+>>>>>>> 463a9765637448bc8db30e7a7d0c4b3ead32987c
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +52,7 @@ Global
 		{CFAEC5A2-DD98-45A8-A7AD-AC63F7CA38B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFAEC5A2-DD98-45A8-A7AD-AC63F7CA38B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFAEC5A2-DD98-45A8-A7AD-AC63F7CA38B6}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{CB41C09F-3F68-4A6B-A7DD-C8BB11E3F05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CB41C09F-3F68-4A6B-A7DD-C8BB11E3F05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB41C09F-3F68-4A6B-A7DD-C8BB11E3F05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +73,8 @@ Global
 		{C71A3E3C-C8FA-4C7F-AC2F-1AE4ECD7DB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C71A3E3C-C8FA-4C7F-AC2F-1AE4ECD7DB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C71A3E3C-C8FA-4C7F-AC2F-1AE4ECD7DB14}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 463a9765637448bc8db30e7a7d0c4b3ead32987c
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
