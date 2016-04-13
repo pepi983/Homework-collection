@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShanoPrograma", "ShanoPrograma\ShanoPrograma.csproj", "{17FA2A78-3147-4080-B1F0-58D1CC195D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShanoProgramaV2.0", "ShanoProgramaV2.0\ShanoProgramaV2.0.csproj", "{D16B8F6A-571C-445E-B96D-6DDFDCA61A0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17FA2A78-3147-4080-B1F0-58D1CC195D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FA2A78-3147-4080-B1F0-58D1CC195D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FA2A78-3147-4080-B1F0-58D1CC195D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FA2A78-3147-4080-B1F0-58D1CC195D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16B8F6A-571C-445E-B96D-6DDFDCA61A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16B8F6A-571C-445E-B96D-6DDFDCA61A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16B8F6A-571C-445E-B96D-6DDFDCA61A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16B8F6A-571C-445E-B96D-6DDFDCA61A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

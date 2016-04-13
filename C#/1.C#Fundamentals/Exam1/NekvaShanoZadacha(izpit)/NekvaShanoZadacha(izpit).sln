@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekvaShanoZadacha(izpit)", "NekvaShanoZadacha(izpit)\NekvaShanoZadacha(izpit).csproj", "{A59D61A8-2CDF-4934-96A3-DAD2C393B437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToNumber", "TextToNumber\TextToNumber.csproj", "{2CFE6B35-BD95-4FC4-9541-792CC4B00F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59D61A8-2CDF-4934-96A3-DAD2C393B437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59D61A8-2CDF-4934-96A3-DAD2C393B437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59D61A8-2CDF-4934-96A3-DAD2C393B437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59D61A8-2CDF-4934-96A3-DAD2C393B437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFE6B35-BD95-4FC4-9541-792CC4B00F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFE6B35-BD95-4FC4-9541-792CC4B00F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFE6B35-BD95-4FC4-9541-792CC4B00F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFE6B35-BD95-4FC4-9541-792CC4B00F60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
