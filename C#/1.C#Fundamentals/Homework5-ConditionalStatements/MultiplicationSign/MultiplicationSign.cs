@@ -13,6 +13,10 @@ namespace MultiplicationSign
             {
                 Console.WriteLine('+');
             }
+            else if (a == 0 || b == 0 || c == 0)
+            {
+                Console.WriteLine("0");
+            }
             else if (a < 0 && b < 0 && c < 0)
             {
                 Console.WriteLine('-');
@@ -21,10 +25,11 @@ namespace MultiplicationSign
             {
                 Console.WriteLine('+');
             }
-            else if (a == 0 || b == 0 || c == 0 )
+            else if (a < 0 || b < 0 || c < 0)
             {
-                Console.WriteLine("0");
+                Console.WriteLine('-');
             }
+
 
         }
     }
