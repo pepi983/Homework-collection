@@ -6,37 +6,31 @@ namespace Interval
     {
         static void Main()
         {
+            int amount = 0;
             int n = int.Parse(Console.ReadLine());
             int m = int.Parse(Console.ReadLine());
             if (n > m)
             {
-                for (m = m; m <= n; m++)
+                for (int kur = (m +1) ; kur < n; kur++)
                 {
-                    if (m % 5 == 0)
+                    if (kur % 5 == 0)
                     {
-                        bool true1 = true;
-                    }
-                    else
-                    {
-                        bool true1 = false;
-                    }
-                }   
-                else
-                {
-                    for (n = n; n <= m; n++)
-                    {
-                        if (n % 5 == 0)
-                        {
-                            bool true2 = true;
-                        }
-                        else
-                        {
-                            bool true2 = false;
-                        }
+                        amount++;
                     }
                 }
             }
-
+            else
+            {
+                for (int packa = (n + 1); packa < m; packa++)
+                {
+                    if (packa % 5 == 0)
+                    {
+                        amount++;
+                    }
+                }
+            }
+            Console.WriteLine(amount);
         }
-    }
+        }
 }
+
