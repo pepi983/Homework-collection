@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Registration Form</title>
+	<style>
+		table,
+		td,
+		tr {
+			border: 1px solid;
+			border-collapse: collapse;
+		}
+		
+		th {
+			width: 10px;
+			text-align: center;
+		}
+		
+		tfoot {
+			text-align: center;
+			background-color: forestgreen;
+		}
+		
+		textarea {
+			resize: none;
+		}
+	</style>
+</head>
+
+<body>
+	<form method="post" action="#">
+		<table>
+			<tr>
+				<th>Last Name</th>
+				<td><input type="text" class="LastName" placeholder="Last name" required="true" /></td>
+			</tr>
+			<tr>
+				<th>First Name</th>
+				<td><input type="text" class="FirstName" placeholder="First name" required="true" /></td>
+			</tr>
+			<tr>
+				<th>Address</th>
+				<td><textarea name="address" cols="25" rows="5" required="true"></textarea></td>
+			</tr>
+			<tr>
+				<th>City</th>
+				<td><input type="text" class="city" size="15" /> State <input type="text" class="state" size="8" /> </td>
+			</tr>
+			<tr>
+				<th>Zip/Postal/Copy</th>
+				<td><input type="text" class="zipcode" size="8" required="true" /></td>
+			</tr>
+			<tr>
+				<th>Country</th>
+				<td>
+					<select name="country" required="true">
+		<option disabled selected>---- choose country ----</option>
+		<option value="Bulgaria">Bulgaria</option>
+		<option value="England">England</option>
+		<option value="Germany">Germany</option>
+		<option value="Spain">Spain</option>
+		<option value="Russia">Russia</option>
+		<option value="Turkey">Turkey</option>
+		<option value="Greece">Greece</option>
+		<option value="Romania">Romania</option>
+		<option value="Austria">Austria</option>
+		<option value="Pernik">Pernik</option>
+	</select>
+				</td>
+			</tr>
+			<tr>
+				<th>Phone(country code, area, code, number)</th>
+				<td>(+ <input type="tel" class="tel" size="3" />)<input type="tel" class="tel" size="3" /> <input type="tel" class="tel"
+						size="10" /></td>
+			</tr>
+			<tr>
+				<th>E-mail</th>
+				<td><input type="text" name="email" size="30" placeholder="Enter your e-mail here" required="required"></td>
+			</tr>
+			<tr>
+				<th>Birth date</th>
+				<td> Month <input type="text" class="Month" size="5" /> Day <input type="text" class="Day" size="1"> Year<input type="text"
+						class="Year" size="3" </td>
+			</tr>
+			<tr>
+				<th>Gender</th>
+				<td>
+					<select name="gender">
+		<option disabled selected>---- choose gender ----</option>
+		<option value="Male">Male</option>
+		<option value="Female">Female</option>
+        <option value="Other">Other</option>
+        <option value="Alien">Other</option>
+	</select>
+				</td>
+			</tr>
+			<tr>
+				<th>Starting date</th>
+				<td> <input type="radio" name="StartingDate" value="Spring 2016" /> Spring 2016 <input type="radio" name="StartingDate" value="Summer 2016"
+					/> Summer 2016 </td>
+			</tr>
+			<tr>
+				<th>Comments/Questions</th>
+				<td> <textarea name="comments" cols="25" rows="10"></textarea></td>
+			</tr>
+			<tr>
+				<tfoot>
+					<td colspan="2">
+						<input type="submit" name="Submit" value="Submit">
+						<input type="reset" name="CleanThisForm" value="Clean This Form">
+					</td>
+				</tfoot>
+			</tr>
+		</table>
+	</form>
+</body>
+
+</html>
