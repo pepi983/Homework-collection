@@ -1,1 +1,2 @@
 H:\Telerik\IntroProgrammingHomework\Homework3\BitSwap\bin\Debug\BitSwap.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\BitSwap\bin\Debug\BitSwap.exe.config

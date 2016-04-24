@@ -4,3 +4,9 @@ H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\bin\Debug\Trapezoids.pd
 H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
 H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\obj\Debug\Trapezoids.exe
 H:\Telerik\IntroProgrammingHomework\Homework3\Trapezoids\obj\Debug\Trapezoids.pdb
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache

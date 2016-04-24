@@ -1,1 +1,6 @@
 c:\users\pc-admin\documents\visual studio 2015\Projects\Homework1\LongSequence\bin\Debug\LongSequence.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\LongSequence\bin\Debug\LongSequence.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\LongSequence\bin\Debug\LongSequence.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\LongSequence\bin\Debug\LongSequence.pdb
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\LongSequence\obj\Debug\LongSequence.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\LongSequence\obj\Debug\LongSequence.pdb

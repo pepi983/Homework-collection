@@ -1,1 +1,7 @@
 c:\users\pc-admin\documents\visual studio 2015\Projects\Homework1\Age\bin\Debug\Age.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\Age\bin\Debug\Age.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\Age\bin\Debug\Age.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\Age\bin\Debug\Age.pdb
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\Age\obj\Debug\Age.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\Age\obj\Debug\Age.pdb

@@ -3,3 +3,6 @@ H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\bin\Debug\3rdBit.exe
 H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\bin\Debug\3rdBit.pdb
 H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\obj\Debug\3rdBit.exe
 H:\Telerik\IntroProgrammingHomework\Homework3\3rdBit\obj\Debug\3rdBit.pdb
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\3rdBit\bin\Debug\3rdBit.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\3rdBit\obj\Debug\3rdBit.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\3rdBit\obj\Debug\3rdBit.pdb

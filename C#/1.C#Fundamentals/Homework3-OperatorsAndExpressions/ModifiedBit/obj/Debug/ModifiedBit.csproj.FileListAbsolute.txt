@@ -4,3 +4,6 @@ H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\bin\Debug\ModifiedBit.
 H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\obj\Debug\ModifiedBit.csprojResolveAssemblyReference.cache
 H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\obj\Debug\ModifiedBit.exe
 H:\Telerik\IntroProgrammingHomework\Homework3\ModifiedBit\obj\Debug\ModifiedBit.pdb
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\ModifiedBit\bin\Debug\ModifiedBit.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\ModifiedBit\obj\Debug\ModifiedBit.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework3-OperatorsAndExpressions\ModifiedBit\obj\Debug\ModifiedBit.pdb

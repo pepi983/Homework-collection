@@ -1,1 +1,6 @@
 c:\users\pc-admin\documents\visual studio 2015\Projects\Homework1\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+D:\GitHub Kurec\Homework\Homework-collection\C#\1.C#Fundamentals\Homework1-IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb
