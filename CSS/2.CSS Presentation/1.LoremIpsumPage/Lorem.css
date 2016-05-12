@@ -1,0 +1,17 @@
+h1::first-letter {
+    font-family: Edwardian Script ITC;
+    font-size: 60px;
+    color: #0094ff;
+}
+h1{
+    font-family: Consolas;
+    color: #0094ff;
+    font-size: 20px;
+    font-weight: bold;   
+}
+p{
+    font-family: Consolas;
+    color: #0094ff;
+    font-size: 20px;
+    text-align: justify;
+}
