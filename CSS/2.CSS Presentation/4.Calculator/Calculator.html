@@ -1,40 +1,35 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+
 <head>
     <title></title>
     <link href="Calculator.css" rel="stylesheet" />
 </head>
+
 <body>
-    <div id="wrapper">
-        <p>
-            <span id="title">Calculator</span>
+    <div id="whole">
+        <img src="Calculator.png" alt="">
+        <span id="title">Calculator</span>
+        <input type="button" id="exitButton" , value="X">
+        <input type="button" class="winbuttons" value="&#9633" />
+        <input type="button" class="winbuttons" id="minimizeButton" value="_">
+        <div id="win">
+            <span class="toolbar"><span class="underlined">V</span>iew</span>
+            <span class="toolbar"><span class="underlined">E</span>dit</span>
+            <span class="toolbar"><span class="underlined">H</span>elp</span>
+        </div>
+        <div id="calculator">
 
-            <table id="header">
-                <tr>
-                    <td>_</td>
-                    <td>&#9633</td>
-                    <td >x</td>
-                </tr>
-            </table>
-        </p>
 
-        <div id="win"></div>
-        <div id="calc">
-            <ul>
-                <li>List</li>
-                <li>Edit</li>
-                <li>Help</li>
-            </ul>
             <div id="main">
-                <table class="main-table">
-                    <tr>
-                        <td colspan="10" id="display">788888 </td>
+                <table class="mainTable">
 
-                    </tr>
                     <tr>
+
                         <td colspan="10">
-                            <table id="small">
+                            <table id="bits">
                                 <tr>
+                                    <input type="text" id="display">
                                     <td>0000</td>
                                     <td>0000</td>
                                     <td>0000</td>
@@ -45,14 +40,14 @@
                                     <td>0000</td>
                                 </tr>
                                 <tr>
-                                    <td class="left">63</td>
+                                    <td>63</td>
                                     <td></td>
                                     <td></td>
                                     <td></td>
-                                    <td class="left">47</td>
+                                    <td>47</td>
                                     <td></td>
                                     <td></td>
-                                    <td class="right">32</td>
+                                    <td class="rightbit">32 </td>
                                 </tr>
                                 <tr>
                                     <td>1100</td>
@@ -65,23 +60,24 @@
                                     <td>0000</td>
                                 </tr>
                                 <tr>
-                                    <td class="left">31</td>
+                                    <td>31</td>
                                     <td></td>
                                     <td></td>
                                     <td></td>
-                                    <td class="left">15</td>
+                                    <td>15</td>
                                     <td></td>
                                     <td></td>
-                                    <td class="right">0</td>
+                                    <td class="rightbit">0</td>
                                 </tr>
                             </table>
                         </td>
                     </tr>
                     <tr>
-                        <td class="radio" colspan="2" rowspan="3">
+                        <td class="selection" colspan="2" rowspan="3">
                             <form>
                                 <input type="radio" name="num-sys" value="hex" /><span class="input">Hex</span><br/>
-                                <input type="radio" name="num-sys" value="dec" checked /><span class="input">Dec</span><br />
+                                <input type="radio" name="num-sys" value="dec" checked /><span class="input">Dec</span><br
+                                />
                                 <input type="radio" name="num-sys" value="oct" /><span class="input">Oct</span><br />
                                 <input type="radio" name="num-sys" value="bin" /><span class="input">Bin</span> <br />
                             </form>
@@ -116,12 +112,12 @@
                         <td class="inactive smaller">%</td>
                     </tr>
                     <tr>
-                        <td colspan="2" rowspan="3" class="radio inactive">
+                        <td colspan="2" rowspan="3" class="selection">
                             <form>
-                                <input type="radio" name="word" checked /><span class="input">Qword</span><br />
-                                <input type="radio" name="word" /><span class="input">Dword</span><br />
-                                <input type="radio" name="word" /><span class="input">Word</span><br />
-                                <input type="radio" name="word" /><span class="input">Byte</span>
+                                <input type="radio" checked /><span class="input">Qword</span><br />
+                                <input type="radio" /><span class="input">Dword</span><br />
+                                <input type="radio" /><span class="input">Word</span><br />
+                                <input type="radio" /><span class="input">Byte</span>
                             </form>
                         </td>
                         <td class="button smaller">Or</td>
@@ -151,9 +147,10 @@
                         <td class="inactive">,</td>
                         <td class="larger button">+</td>
                     </tr>
-                  </table>
+                </table>
             </div>
         </div>
     </div>
 </body>
+
 </html>
