@@ -1,0 +1,71 @@
+body {
+    font-family: arial, serif;
+    font-size: 15px;
+    font-stretch: condensed;
+}
+h1{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: normal;
+}
+.Outside {
+    background-color: #EEEEEE;
+    width: 421px;
+    height: 538px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    ;
+}
+.Inside {
+    position: relative;
+    background-color: white;
+    border: 1px solid #9fa4a4;
+    margin: 20px 10px;
+    height: 127px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+img {
+    margin: 15px;
+    border: 1px solid #9fa4a4;
+    display: inline-block;
+    width: 134px;
+}
+p {
+    width: 200px;
+    margin: 15px 0;
+    height: 30px;
+}
+a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.listenButtn, .addButtn, .listenSp, .addSp{
+    position: absolute;
+    bottom: 15px;
+}
+.listenButtn, .addButtn {
+    border: 2px outset #be0b0b;
+    height: 20px;
+}
+.listenButtn {
+    right: 72px;
+}
+.listenSp{
+        right: 83px;
+}
+
+.listenSp, .addSp {
+    bottom: 19px;
+    color: white;
+}
+.addButtn {
+    right: 15px;
+}
+.addSp{
+        right: 25px;
+}

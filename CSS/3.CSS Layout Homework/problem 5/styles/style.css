@@ -1,0 +1,72 @@
+body {
+    font-family: ariel, sans-serif;
+    font-size: 18px;
+}
+.Body {
+    border: 2px solid gray;
+    border-radius: 5px;
+    width: 900px;
+}
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-bottom: 2px solid gray;
+    padding: 5px;
+    margin: 0 20px;
+}
+.links a {
+    margin: 2px;
+    font-weight: bold;
+    color: #01ADF0;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+}
+.macbookcont {
+  position: relative;
+    width: 66%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 2px solid gray;
+    margin: 10px;
+    padding: 10px;
+}
+.fielddiv{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  width: 33%;
+  align-items: flex-end;
+}
+.col1, .col2{
+  padding: 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.col1>span, .col2>span{
+  display: block;
+  width: 120px;
+  padding: 5px 2px;
+  font-size: 20px;
+}
+.col1>span{
+  text-align: center;
+}
+.col1>img{
+  margin-bottom: 20px;
+}
+.ranges{
+  width: 33%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.labelrange{
+    font-size: 24px;
+    margin: 10px;
+}
