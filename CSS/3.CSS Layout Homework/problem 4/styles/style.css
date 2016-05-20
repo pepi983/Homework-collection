@@ -1,0 +1,96 @@
+body {
+    font-family: arial, sans-serif;
+    font-size: 15px;
+}
+.Body {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    background-color: #F1F1F1;
+}
+nav {
+    width: 20%;
+}
+#homeimg {
+    position: relative;
+    top: 10px;
+    display: inline-block;
+}
+h1 {
+    position: relative;
+    top: 5px;
+    display: inline-block;
+    font-size: 15px;
+    padding: 0;
+}
+ul {
+    list-style: none;
+    padding: 0 0 12px 0;
+}
+.firstline {
+    color: #8C0504;
+    font-weight: bold;
+}
+section {
+    width: 60%;
+    border: 1px solid gray;
+    background-color: white;
+    margin: 2px;
+    padding: 5px;
+}
+h3 {
+    color: white;
+    font-weight: normal;
+    font-size: 18px;
+    background-color: #808080;
+    margin: 0;
+}
+a{
+    color: #8C0504;
+}
+.firstarticle {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.firstarticle img{
+    margin: 25px 5px;
+    width: 20%;
+    align-self: flex-start;
+}
+.FirstSpecialText, .SpecialText{
+    padding: 5px 5px 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.FirstSpecialText{
+    padding-bottom: 20px;
+}
+.FirstSpecialText p{
+    font-weight: bold;
+    margin: 10px 5px;
+}
+aside {
+    width: 20%;
+}
+aside>div{
+    border: 1px solid gray;
+    margin: 2px;
+    background-color: white;
+    text-align: center;
+}
+.searchdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+}
+input[type=text]{
+    width: 70%;
+    margin-right: 5px;
+}
+aside>div a{
+    display: block;
+    margin: 5px 5px;
+}
