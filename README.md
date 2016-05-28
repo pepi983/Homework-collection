@@ -14,6 +14,8 @@ ___2.C#Advanced
 -Homework3(full)
 -Homework4(full)(Special thanks to kaliman+foruma)
 -Homework5(full)
+-Homework6(full)
+-Homework7(full)
 ==HTML
 __1.HTML Fundamentals
 -Homework1(full)
